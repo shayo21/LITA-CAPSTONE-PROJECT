@@ -32,5 +32,18 @@ In the initial phase of analysis for Sales data, the follow actions were carried
 3. Using Excel Functions such as; 
 - AVERAGEIF to calculate average sales per product
 - SUMIF to caluculate total sales per region
-- SUM Function to calculate Grand total sales
+- SUM Function to calculate Grand total salese
+
+![Screenshot_20241105-193614](https://github.com/user-attachments/assets/402d2a3d-5685-4950-ace4-4487453d2d41)
+
+![IMG_20241105_200034](https://github.com/user-attachments/assets/9440bbc1-3461-4fd5-81c4-c700ba0ca5c6)
+
+- Pivot Table
+- 
+![IMG_20241105_211023](https://github.com/user-attachments/assets/49fd6ea0-1e9e-495c-91ed-dd2d7b5d3e7d)
+
+![IMG_20241105_200001](https://github.com/user-attachments/assets/27982355-e6a6-4889-bc0a-97e2fa3cad81)
+
+
+  
 
