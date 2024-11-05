@@ -1,4 +1,4 @@
-# LITA_CAPSTONE_PROJECT EXCEL SALES DATA
+# LITA_CAPSTONE_PROJECT SALES DATA(Excel)
 
 ### Project Title: Capstone Project Sales Data
 
@@ -33,6 +33,8 @@ In the initial phase of analysis for Sales data, the follow actions were carried
 - AVERAGEIF to calculate average sales per product
 - SUMIF to caluculate total sales per region
 - SUM Function to calculate Grand total salese
+
+![Screenshot_20241105-193600](https://github.com/user-attachments/assets/e7958120-c008-4dfb-857a-e6914200bf94)
 
 ![Screenshot_20241105-193614](https://github.com/user-attachments/assets/402d2a3d-5685-4950-ace4-4487453d2d41)
 
